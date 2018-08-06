@@ -1,0 +1,1 @@
+http://localhost:8888/register_profile/{"name":"Abu","answer":"[{'q_id': 1, 'ans': 8000},{'q_id': 2, 'ans': 6000}]"}
